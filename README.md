@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on the Genetics of Zygodactyly (ZD1)
 - 🌱 Trying to save the planet using shinyR
-- 🤖 I have an OCD when it comes to Genomics data analysis
-- 🤔 Are you brilliant at Linkage analysis? drop me a message!
+- 🤖 I have OCD when it comes to Genomics data analysis
+- 🤔 Are you brilliant at Linkage Analysis? drop me a message!
 - 📫 Reach me out on Linkedin: [Mohanad Hussein](https://www.linkedin.com/in/mohanad-hussein-06bb95185/) or Twitter: [Mohanadnour4869](https://twitter.com/Mohanadnour4869) 
 <!--
 **mohanadhussein/mohanadhussein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
