@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Mohanad, a senior student at Istanbul Technical University
 - 🔭 I’m currently working on the Genetics of Zygodactyly (ZD1)
 - 🌱 Trying to save the planet using shinyR
 - 🤖 I have OCD when it comes to Genomics data analysis
