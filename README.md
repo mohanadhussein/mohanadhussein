@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Mohanad, a senior student at Istanbul Technical University
+I am Mohanad, a senior Molecular Biology & Genetics student at Istanbul Technical University (İTÜ)
 - 🔭 I’m currently working on the Genetics of Zygodactyly (ZD1)
 - 🌱 Trying to save the planet using shinyR
 - 🤖 I have OCD when it comes to Genomics data analysis
