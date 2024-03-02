@@ -4,7 +4,7 @@ I am Mohanad, a senior Molecular Biology & Genetics student at Istanbul Technica
 - 🌱 Trying to save the planet using shinyR
 - 🤖 I have OCD when it comes to Genomics data analysis
 - 🤔 Are you brilliant at Linkage Analysis? drop me a message!
-- 💡 Check my fav github repos:  [Figure1Lab](https://github.com/deanslee/FigureOneLab.git) and the great (glittr)[https://glittr.org/?per_page=25&sort_by=stargazers&sort_direction=desc]
+- 💡 Check my fav github repos:  [Figure1Lab](https://github.com/deanslee/FigureOneLab.git) and the great [glittr](https://glittr.org/?per_page=25&sort_by=stargazers&sort_direction=desc)
 - 📫 Reach me out on Linkedin: [Mohanad Hussein](https://www.linkedin.com/in/mohanad-hussein-06bb95185/) or Twitter: [Mohanadnour4869](https://twitter.com/Mohanadnour4869) 
 <!--
 **mohanadhussein/mohanadhussein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
