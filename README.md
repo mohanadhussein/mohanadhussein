@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Mohanad, a senior Molecular Biology & Genetics student at Istanbul Technical University (İTÜ)
+I am Mohanad, a master's student in Computational Biology & Bioinformatics at the University of Göttingen.
 - 🔭 Currently working on the Genetics of Zygodactyly (ZD1), and Sleeping sikcness vectors (Tsetse flies)
 - 🌱 Trying to save the planet using shinyR
 - 🤖 I have OCD when it comes to Genomics data analysis
